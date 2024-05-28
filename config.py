@@ -97,11 +97,7 @@ class Var(object):
         URL = "https://hurt-falcon-lovelyavimuwal-909f06b5.koyeb.app/"
     else:
         URL = "https://hurt-falcon-lovelyavimuwal-909f06b5.koyeb.app/"
- # Url Shortner Information 
-    TECH_VJ = bool(environ.get('TECH_VJ', True)) # Set False If you want shortlink off else True
-    TECH_VJ_URL = environ.get('TECH_VJ_URL', 'moneykamalo.com') # your shortlink url domain or url without https://
-    TECH_VJ_API = environ.get('TECH_VJ_API', '0f2507e8fb194d81386055979b18aed18df87fc8') # your url shortner api
-    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/How_To_Open_Linkl")
+ 
 
 
 # Don't Remove Credit Tg - @VJ_Botz
